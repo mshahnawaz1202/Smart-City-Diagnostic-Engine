@@ -87,6 +87,10 @@ Smart-City-Diagnostic-Engine/
 - Identified dominant pollution drivers
 - Interpreted which variables contribute most to zone separation
 
+
+<img width="2084" height="806" alt="task1_pca" src="https://github.com/user-attachments/assets/77191e2c-2a1f-4bf6-ac40-e016a4e7695f" />
+
+
 ---
 
 ## Task 2: High-Density Temporal Analysis
@@ -102,6 +106,7 @@ Identify simultaneous PM2.5 health threshold violations (PM2.5 > 35 µg/m³).
 ### Outcome
 - Detected periodic pollution signatures
 - Distinguished daily vs seasonal patterns
+<img width="2383" height="1181" alt="task2_temporal" src="https://github.com/user-attachments/assets/20dd2282-9357-45a5-bb5b-1d10842eff01" />
 
 ---
 
@@ -118,6 +123,7 @@ Quantify extreme hazard events (PM2.5 > 200 µg/m³).
 ### Outcome
 - Accurate modeling of rare hazardous pollution events
 - Honest representation of long-tail risk
+<img width="2084" height="804" alt="task3_distribution" src="https://github.com/user-attachments/assets/f37ebc66-e4ed-435e-8606-4754e1a66753" />
 
 ---
 
@@ -134,6 +140,7 @@ Rejected due to:
 
 ### Alternative Implemented
 Small multiples (2D scatter plots per region) using sequential color encoding for perceptual accuracy.
+<img width="1564" height="775" alt="task4_visual_audit" src="https://github.com/user-attachments/assets/4f80ee06-11b6-4f34-b434-154a2533625f" />
 
 ---
 
@@ -222,4 +229,5 @@ streamlit run app.py
 **Shahnawaz**  
 
 ---
+
 
